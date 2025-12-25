@@ -42,6 +42,3 @@ I am actively exploring opportunities where I can:
 
 - **LinkedIn:** https://www.linkedin.com/in/bishesh2528
 
-## GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishesh-droid&show_icons=true&theme=radical)
