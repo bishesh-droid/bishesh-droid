@@ -1,44 +1,44 @@
 # Bishesh Baruah
 
-## Software Engineer | Systems & Security Enthusiast
+## Civil Engineering Graduate | Cybersecurity & Systems Enthusiast  
+**BITS Pilani**
 
-I am a **Computer Science graduate** with a strong foundation in core computing principles and a practical approach to problem-solving. My interests lie in understanding how software systems operate in real-world environments, particularly at the intersection of **systems, networking, and security**.
+I am a **Civil Engineering graduate from BITS Pilani** with a strong interest in **cybersecurity and software systems**. During my academic journey, I developed a growing inclination toward computing and system-level problem solving, which led me to actively pursue cybersecurity as my primary technical focus.
 
-I focus on building, analyzing, and improving technical solutions through hands-on experimentation. My work reflects a curiosity-driven mindset, attention to detail, and an emphasis on writing structured, maintainable code that behaves reliably under realistic constraints.
+My background in engineering has shaped a structured and analytical approach to problem-solving, which I now apply to understanding how software systems, networks, and infrastructure behave in real-world environments. I focus on learning through hands-on implementation, experimentation, and continuous refinement of technical fundamentals.
 
-## Technical Focus Areas
+## Areas of Technical Interest
 
-My experience spans multiple domains of computer science, with particular emphasis on:
+My interests broadly span across core computing and security domains, including:
 
-- **Systems & Application Security**  
-  Understanding common software weaknesses, secure design principles, and defensive mechanisms across applications and services.
+- **Application & Systems Security**  
+  Understanding common security weaknesses, secure design principles, and defensive strategies across modern software systems.
 
-- **Networking & Distributed Systems**  
-  Exploring how data moves through networks, how systems communicate, and how reliability and security are maintained at scale.
+- **Networking & Infrastructure**  
+  Exploring how systems communicate, how data flows across networks, and how reliability and security are maintained at scale.
 
 - **Automation & Tooling**  
-  Designing small, purpose-built tools to simplify analysis, testing, and system inspection tasks.
+  Building focused tools and scripts to assist with analysis, testing, and system inspection.
 
-- **Software Analysis & Reliability**  
-  Debugging, monitoring, and evaluating system behavior to improve correctness, stability, and performance.
+- **Software Behavior & Reliability**  
+  Observing, debugging, and analyzing system behavior to improve correctness, stability, and resilience.
 
-## Approach to Engineering
+## Engineering Mindset
 
 I value:
-- Clear problem decomposition  
-- Readable, well-structured code  
-- Learning through implementation rather than abstraction alone  
+- Clear reasoning and structured problem breakdown  
+- Readable, maintainable, and purposeful code  
+- Practical learning grounded in implementation rather than theory alone  
 
-I continuously refine my understanding of computer systems by experimenting with different technologies, architectures, and security models.
+My work reflects a steady transition from a core engineering background into software and security-focused problem spaces.
 
-## Professional Outlook
+## Career Focus
 
-I am actively exploring opportunities where I can:
-- Contribute to technically rigorous teams  
-- Work close to core systems and infrastructure  
-- Continue developing depth in software engineering and security-related roles  
+I am actively seeking opportunities where I can:
+- Apply my engineering foundation to cybersecurity and system-level roles  
+- Work in technically rigorous environments  
+- Continue developing depth in security, systems, and software engineering  
 
 ## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/bishesh2528
-
