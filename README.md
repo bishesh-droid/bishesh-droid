@@ -60,7 +60,7 @@ I build hands-on security tools across offensive, defensive, forensics, and cryp
   <img src="https://streak-stats.demolab.com?user=bishesh-droid&theme=dark&hide_border=true" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bishesh-droid&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishesh-droid&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
