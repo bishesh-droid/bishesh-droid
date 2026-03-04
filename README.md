@@ -57,8 +57,10 @@ I build hands-on security tools across offensive, defensive, forensics, and cryp
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishesh-droid&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishesh-droid&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=bishesh-droid&theme=dark&hide_border=true" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bishesh-droid&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
