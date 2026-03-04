@@ -1,44 +1,69 @@
-# Bishesh Baruah
+<h1 align="center">Hi, I'm Bishesh Baruah 👋</h1>
+<h3 align="center">Cybersecurity Researcher · Security Tooling · Digital Forensics · BITS Pilani</h3>
 
-## Civil Engineering Graduate | Cybersecurity & Systems Enthusiast  
-**BITS Pilani**
+<p align="center">
+  <a href="https://www.linkedin.com/in/bishesh2528"><img src="https://img.shields.io/badge/LinkedIn-bishesh2528-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/bishesh-droid"><img src="https://img.shields.io/badge/GitHub-bishesh--droid-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
-I am a **Civil Engineering graduate from BITS Pilani** with a strong interest in **cybersecurity and software systems**. During my academic journey, I developed a growing inclination toward computing and system-level problem solving, which led me to actively pursue cybersecurity as my primary technical focus.
+---
 
-My background in engineering has shaped a structured and analytical approach to problem-solving, which I now apply to understanding how software systems, networks, and infrastructure behave in real-world environments. I focus on learning through hands-on implementation, experimentation, and continuous refinement of technical fundamentals.
+### About Me
 
-## Areas of Technical Interest
+Civil Engineering graduate from **BITS Pilani** with a self-driven transition into cybersecurity.
+I build hands-on security tools across offensive, defensive, forensics, and cryptography domains.
 
-My interests broadly span across core computing and security domains, including:
+- 🔭 **80+ open-source security projects** — from malware sandboxes to ML-based IDS
+- 🛡️ Focused on: **Security Engineering · Penetration Testing · DFIR · Threat Intelligence**
+- 🧠 Strong systems-thinking foundation from engineering background
+- 📍 Based in Delhi, India
 
-- **Application & Systems Security**  
-  Understanding common security weaknesses, secure design principles, and defensive strategies across modern software systems.
+---
 
-- **Networking & Infrastructure**  
-  Exploring how systems communicate, how data flows across networks, and how reliability and security are maintained at scale.
+### Tech Stack
 
-- **Automation & Tooling**  
-  Building focused tools and scripts to assist with analysis, testing, and system inspection.
+**Languages**
 
-- **Software Behavior & Reliability**  
-  Observing, debugging, and analyzing system behavior to improve correctness, stability, and resilience.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-## Engineering Mindset
+**Security & Tools**
 
-I value:
-- Clear reasoning and structured problem breakdown  
-- Readable, maintainable, and purposeful code  
-- Practical learning grounded in implementation rather than theory alone  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-Forensics-black?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-My work reflects a steady transition from a core engineering background into software and security-focused problem spaces.
+**Domains**
 
-## Career Focus
+`Malware Analysis` `Network Security` `Web Application Security` `Digital Forensics`
+`Threat Intelligence` `SOAR` `Cryptography` `Mobile Security` `IoT Security` `OSINT`
 
-I am actively seeking opportunities where I can:
-- Apply my engineering foundation to cybersecurity and system-level roles  
-- Work in technically rigorous environments  
-- Continue developing depth in security, systems, and software engineering  
+---
 
-## Connect
+### Featured Projects
 
-- **LinkedIn:** https://www.linkedin.com/in/bishesh2528
+| Project | Description |
+|---|---|
+| [automated-malware-sandbox](https://github.com/bishesh-droid/automated-malware-sandbox) | Dynamic malware analysis sandbox using VirtualBox |
+| [network-based-ids-with-ml](https://github.com/bishesh-droid/network-based-ids-with-ml) | ML-based intrusion detection system for network traffic |
+| [flask-waf](https://github.com/bishesh-droid/flask-waf) | Web Application Firewall built with Python/Flask |
+| [Python-Vulnerability-Scanner](https://github.com/bishesh-droid/Python-Vulnerability-Scanner) | Web scanner detecting SQLi, XSS, and OWASP vulnerabilities |
+| [memory_forensics_analyzer](https://github.com/bishesh-droid/memory_forensics_analyzer) | Memory dump analysis using Volatility 3 |
+| [security_orchestration_automation_and_response_soar_playbook](https://github.com/bishesh-droid/security_orchestration_automation_and_response_soar_playbook) | Automated SOAR playbook for incident response |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishesh-droid&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishesh-droid&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+### Let's Connect
+
+I'm actively seeking roles in **Security Engineering, Penetration Testing, SOC/DFIR, or Security Research**.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bishesh2528) or explore my work here on GitHub.
