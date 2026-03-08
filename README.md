@@ -14,7 +14,7 @@
 Civil Engineering undergraduate at **BITS Pilani** (2022–2026) with a strong hands-on focus on cybersecurity and system security.
 I build practical security tools across application security, cloud infrastructure, network defense, and malware analysis.
 
-- 🔭 **80+ open-source security projects** — scanners, IDS, forensics tools, SOAR automation
+- 🔭 **Open-source security projects** — scanners, IDS, forensics tools, SOAR automation
 - 🛡️ Focused on: **Application & API Security · Cloud Security · DFIR · Threat Intelligence**
 - ☁️ Experience with **AWS misconfiguration analysis** and cloud security posture management
 - 🧠 Engineering mindset centered on failure analysis, resilience, and risk reduction
